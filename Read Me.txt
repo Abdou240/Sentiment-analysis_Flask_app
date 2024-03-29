@@ -1,0 +1,1 @@
+To test the Flask app, run the Flask script (app.py) and then run this script (request_data.py) to test all the different scenarios (the list of users is taken from the csv file).
